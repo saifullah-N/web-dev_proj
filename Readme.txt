@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Knight
-Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+this is a basic website created by me to acces data and store it in firebase database
